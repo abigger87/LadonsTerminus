@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=gui()
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ splashScreen()
+comment3.params=
+comment3.target=void\ initUI()
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=event
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=event
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment7.params=event
+comment7.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment8.params=text
+comment8.target=javax.swing.JButton\ createSimpleButton(java.lang.String)
+numComments=9

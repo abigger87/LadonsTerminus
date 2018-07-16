@@ -1,2 +1,2 @@
 # LadonsTerminus
-Mac console - java gui
+Console Redesigned
